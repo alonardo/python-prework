@@ -48,8 +48,6 @@ def is_leap_year(a_year):
             a_year = False       
     else:
         a_year = False
-        
-    print(a_year)
     
 
 # Question 5
@@ -75,4 +73,3 @@ def is_consecutive(a_list):
             else:
                 consecutive = False
     print(consecutive)
-
